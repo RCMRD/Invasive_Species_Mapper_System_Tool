@@ -1,0 +1,772 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="roi_FeatureToPoint" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+	<name>roi_FeatureToPoint</name>
+	<Snippet maxLines="0"></Snippet>
+	<Style id="IconStyle00">
+		<IconStyle>
+			<scale>0.0625</scale>
+			<Icon>
+				<href>Layer0_Symbol_d34d1c0.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0000ff</color>
+			<scale>0.666667</scale>
+		</LabelStyle>
+		<PolyStyle>
+			<color>ff000000</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Folder id="FeatureLayer0">
+		<name>roi_FeatureToPoint</name>
+		<Snippet maxLines="0"></Snippet>
+		<Placemark id="ID_00000">
+			<name>Embu</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Kenya</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>ID_0</td>
+
+<td>118</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ISO</td>
+
+<td>KEN</td>
+
+</tr>
+
+<tr>
+
+<td>NAME_0</td>
+
+<td>Kenya</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ID_1</td>
+
+<td>6</td>
+
+</tr>
+
+<tr>
+
+<td>NAME_1</td>
+
+<td>Embu</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>HASC_1</td>
+
+<td>KE.EB</td>
+
+</tr>
+
+<tr>
+
+<td>CCN_1</td>
+
+<td>14</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>CCA_1</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>TYPE_1</td>
+
+<td>County</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ENGTYPE_1</td>
+
+<td>County</td>
+
+</tr>
+
+<tr>
+
+<td>NL_NAME_1</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>VARNAME_1</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>ORIG_FID</td>
+
+<td>0</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>37.62550140846327,-0.600471791140194,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00001">
+			<name>Machakos</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Kenya</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>ID_0</td>
+
+<td>118</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ISO</td>
+
+<td>KEN</td>
+
+</tr>
+
+<tr>
+
+<td>NAME_0</td>
+
+<td>Kenya</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ID_1</td>
+
+<td>22</td>
+
+</tr>
+
+<tr>
+
+<td>NAME_1</td>
+
+<td>Machakos</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>HASC_1</td>
+
+<td>KE.MC</td>
+
+</tr>
+
+<tr>
+
+<td>CCN_1</td>
+
+<td>16</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>CCA_1</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>TYPE_1</td>
+
+<td>County</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ENGTYPE_1</td>
+
+<td>County</td>
+
+</tr>
+
+<tr>
+
+<td>NL_NAME_1</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>VARNAME_1</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>ORIG_FID</td>
+
+<td>1</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>37.41210168304627,-1.27763694089208,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00002">
+			<name>Meru</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Kenya</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>ID_0</td>
+
+<td>118</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ISO</td>
+
+<td>KEN</td>
+
+</tr>
+
+<tr>
+
+<td>NAME_0</td>
+
+<td>Kenya</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ID_1</td>
+
+<td>26</td>
+
+</tr>
+
+<tr>
+
+<td>NAME_1</td>
+
+<td>Meru</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>HASC_1</td>
+
+<td>KE.ME</td>
+
+</tr>
+
+<tr>
+
+<td>CCN_1</td>
+
+<td>12</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>CCA_1</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>TYPE_1</td>
+
+<td>County</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ENGTYPE_1</td>
+
+<td>County</td>
+
+</tr>
+
+<tr>
+
+<td>NL_NAME_1</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>VARNAME_1</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>ORIG_FID</td>
+
+<td>2</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>37.76362758094814,0.1696690407936217,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00003">
+			<name>Murang&apos;a</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Kenya</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>ID_0</td>
+
+<td>118</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ISO</td>
+
+<td>KEN</td>
+
+</tr>
+
+<tr>
+
+<td>NAME_0</td>
+
+<td>Kenya</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ID_1</td>
+
+<td>29</td>
+
+</tr>
+
+<tr>
+
+<td>NAME_1</td>
+
+<td>Murang'a</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>HASC_1</td>
+
+<td>KE.MU</td>
+
+</tr>
+
+<tr>
+
+<td>CCN_1</td>
+
+<td>21</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>CCA_1</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>TYPE_1</td>
+
+<td>County</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ENGTYPE_1</td>
+
+<td>County</td>
+
+</tr>
+
+<tr>
+
+<td>NL_NAME_1</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>VARNAME_1</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>ORIG_FID</td>
+
+<td>3</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>37.03209801151405,-0.8032567824744774,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00004">
+			<name>Tharaka-Nithi</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Kenya</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>ID_0</td>
+
+<td>118</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ISO</td>
+
+<td>KEN</td>
+
+</tr>
+
+<tr>
+
+<td>NAME_0</td>
+
+<td>Kenya</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ID_1</td>
+
+<td>41</td>
+
+</tr>
+
+<tr>
+
+<td>NAME_1</td>
+
+<td>Tharaka-Nithi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>HASC_1</td>
+
+<td>KE.NT</td>
+
+</tr>
+
+<tr>
+
+<td>CCN_1</td>
+
+<td>13</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>CCA_1</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>TYPE_1</td>
+
+<td>County</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ENGTYPE_1</td>
+
+<td>County</td>
+
+</tr>
+
+<tr>
+
+<td>NL_NAME_1</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>VARNAME_1</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>ORIG_FID</td>
+
+<td>4</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>38.05926608965837,-0.1254252117041119,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

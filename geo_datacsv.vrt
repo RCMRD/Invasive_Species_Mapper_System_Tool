@@ -1,0 +1,22 @@
+<OGRVRTDataSource>
+    <OGRVRTLayer name="geo_userdata">
+        <SrcDataSource>geo_userdata.csv</SrcDataSource>
+        <GeometryType>wkbPoint</GeometryType>
+        <LayerSRS>WGS84</LayerSRS>
+        <GeometryField encoding="PointFromColumns" x="LONGITUDE" y="LATITUDE"/>
+
+
+	<Field name="ABUDANCE" src="ABUDANCE" type="String"/>
+        <Field name="REPORT_TIME" src="REPORT_TIME" type="String"/>
+	<Field name="INFESTED_AREA" src="INFESTED_AREA" type="String"/>
+        <Field name="HABITAT" src="HABITAT" type="String"/>
+	<Field name="GROSS_AREA" src="GROSS_AREA" type="String"/>
+        <Field name="CANOPY_CLOSURE" src="CANOPY_CLOSURE" type="String"/>
+	<Field name="IMAGE_NAME" src="IMAGE_NAME" type="String"/>
+        <Field name="COMMENTS" src="COMMENTS" type="String"/>
+        <Field name="OWNERSHIP" src="OWNERSHIP" type="String"/>
+	<Field name="AREA_ACCESSIBILITY" src="AREA_ACCESSIBILITY" type="String"/>
+	<Field name="SPECIES" src="SPECIES" type="String"/>
+
+    </OGRVRTLayer>
+</OGRVRTDataSource>
